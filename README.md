@@ -1,0 +1,1 @@
+# django-wp-react-boilerplate
