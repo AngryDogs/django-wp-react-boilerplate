@@ -1,0 +1,14 @@
+{% load render_bundle from webpack_loader %}
+<!DOCTYPE html>
+<html>
+<head>
+  <title>---</title>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta content="width=device-width, height=device-height, initial-scale=1" name="viewport">
+</head>
+<body>
+  <div id="target"></div>
+  {% render_bundle 'main' %}
+</body>
+</html>

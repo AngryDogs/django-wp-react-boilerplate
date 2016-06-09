@@ -1,0 +1,4 @@
+Django==1.9.7
+django-appconf==1.0.2
+django-filter==0.13.0
+django-webpack-loader==0.3.0
